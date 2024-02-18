@@ -1,0 +1,19 @@
+{
+  "name": "task_management",
+  "version": "1.0.0",
+  "description": "task management system",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
